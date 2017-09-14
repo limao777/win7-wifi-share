@@ -1,0 +1,8 @@
+D:\VS2008_Project\win7_wifi\win7_wifi\bin\Debug\win7_wifi.exe
+D:\VS2008_Project\win7_wifi\win7_wifi\bin\Debug\win7_wifi.pdb
+D:\VS2008_Project\win7_wifi\win7_wifi\obj\Debug\ResolveAssemblyReference.cache
+D:\VS2008_Project\win7_wifi\win7_wifi\obj\Debug\win7_wifi.Properties.Resources.resources
+D:\VS2008_Project\win7_wifi\win7_wifi\obj\Debug\win7_wifi.csproj.GenerateResource.Cache
+D:\VS2008_Project\win7_wifi\win7_wifi\obj\Debug\win7_wifi.exe
+D:\VS2008_Project\win7_wifi\win7_wifi\obj\Debug\win7_wifi.pdb
+D:\VS2008_Project\win7_wifi\win7_wifi\obj\Debug\win7_wifi.Form1.resources
